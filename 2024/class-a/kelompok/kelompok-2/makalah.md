@@ -1,4 +1,4 @@
-# TEKNOLOGI SEBAGAI MITOS DAN HIPERREALITAS DI ERA DIGITAL
+# POSISI TEKNOLOGI SEBAGAI MITOS DAN HIPERREALITAS DI ERA DIGITAL
 
 <img width="855" height="834" alt="image" src="https://github.com/user-attachments/assets/39ffcd41-a538-46bf-86b0-5827cbae9009" />
 
@@ -33,7 +33,7 @@ Selain itu, kemajuan teknologi juga menimbulkan kondisi hiperrealitas, yaitu bat
 
 1. Menjelaskan posisi teknologi sebagai mitos.
 2. Menjelaskan substansi teknologi dalam sudut pandang hiperrealitas.
-3. Mengetahui contoh kasus berdasarkan pengalaman pribadi terkait konsep teknologi dalam sudur pandang hiperrealitas.
+3. Mengetahui contoh kasus berdasarkan pengalaman pribadi terkait konsep teknologi dalam sudut pandang hiperrealitas.
 4. Mengetahui perbedaan antara teknologi sebagai mitos dan teknologi sebagai alat menggunakan pengalaman internal dan terpersonalisasi.
 
 ## BAB 2 Pembahasan
