@@ -1,4 +1,4 @@
-#Resume Evolusi Relasi antara Negara, Sektor Swasta, dan Teknologi (1960–Sekarang): Peran Budaya Hacking serta Paradigma Open dan Closed Source.
+# Resume Evolusi Relasi antara Negara, Sektor Swasta, dan Teknologi (1960–Sekarang): Peran Budaya Hacking serta Paradigma Open dan Closed Source.
 ## Nama : Angel Aisyah Dewi
 ## NIM : 12402051030095
 ## Kelas : 4D
