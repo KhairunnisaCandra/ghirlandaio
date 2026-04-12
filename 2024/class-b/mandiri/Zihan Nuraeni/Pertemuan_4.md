@@ -13,3 +13,15 @@ Kebebasan dan keterbukaan terhadap software merupakan prinsip yang dipegang tegu
 Prinsip yang dipegang dan kekecewaan terhadap komodifikasi software menjadi awal bagi Stallman untuk mengembangkan software bersifat gratis yaitu, GNU. Konsep ‘bebas’ yang dijadikan tujuan memiliki arti yang sama dengan ‘kebebasan berpendapat'. Untuk mengukuhkan hal tersebut, Stallman turut mengembangkan GNU General Public License yang merupakan sebuah lisensi perangkat lunak dengan konsep *copyleft*. GPL bersifat gratis dan memberi akses bebas bagi pengguna untuk menggunakan, memodifikasi, dan mendistribusi software sehingga dapat mempromosikan budaya sosial saling yang sarat akan memberi dan kooperasi antar sesama. Akan tetapi, setiap produk turunan yang dihasilkan dari software tersebut harus didistribusikan dengan prinsip yang sama dan tidak boleh menambah pembatasan sendirinya. 
 
 GPL memiliki fungsi utama untuk memupuk lingkungan dimana pengetahuan dan perkembangan teknologi dapat dilakukan dengan cara memastikan bahwa software tetap dapat digunakan oleh pengguna dengan bebas tanpa mengeluarkan biaya dan bersifat open-source, sehingga tidak dijadikan produk yang diperjualbelikan.
+
+## Kesimpulan
+
+GNU General Public License dikembangkan berdasarkan prinsip kebersamaan yang dipegang teguh Richard Stallman. Baginya, semua orang memiliki hak yang sama dalam mengakses sebuah software dan GNU serta GPL hadir sebagai perwujudan dari keyakinan tersebut. Budaya solidaritas merupakan sebuah upaya yang dilakukan untuk melawan perusahaan yang hanya berfokus kepada profit. 
+
+## Daftar Pustaka
+
+Isaacson, W. (2014). The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution. Simon and Schuster.
+
+Makalah Kelompok 3. TRANSFORMASI EKOSISTEM TEKNOLOGI: DARI DOMINASI NEGARA KE ERA KOLABORASI TERBUKA. 
+
+
