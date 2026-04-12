@@ -27,3 +27,7 @@ Berdasarkan pembahasan, dapat disimpulkan bahwa ARPA (Advanced Research Projects
 
 Melalui berbagai program penelitian yang berfokus pada pembuktian konsep hingga tahap implementasi, DARPA berhasil menghasilkan inovasi-inovasi yang tidak hanya berdampak pada bidang militer, tetapi juga memberikan manfaat luas bagi kehidupan masyarakat sipil. Berbagai teknologi seperti internet, GPS, dan sistem pengenalan suara merupakan bukti nyata kontribusi DARPA dalam kehidupan sehari-hari.
 
+# **DAFTAR PUSTAKA**
+Makalah Kelompok 3 (2026). Transformasi Ekosistem Teknologi: Dari Dominasi Negara ke Era Kolaborasi Terbuka.
+
+Defense Advanced Research Projects Agency. About DARPA. U.S. Department of Defense. *https://www.darpa.mil/about-us*
