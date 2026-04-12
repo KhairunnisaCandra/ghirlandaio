@@ -1,2 +1,4 @@
 # Analogi Sederhana Untuk Menjelaskan Closed Source Vs Open Source?
 Resume presentasi kelompok 3 "Transformasi Ekosistem Teknologi: Dari Dominasi Negara Ke Era Kolaborasi Terbuka"
+## Pendahuluan
+Perkembangan teknologi tidak hanya soal tekinis, tetapi juga menyangkut cara pengelolaan pengetahuan. Dalam dunia tekonologi, perdebatan antara open source dan closed source sering kali dianggap sebagai hal yang tekinis dan juga rumit. Namun jika kita melihat dari perspektif Steven Weber dalam bukunya The Success Of Open Sorce, perbedaan mendasarnya sebenarnya terletak pada bagaimana sebuah karya intelektual dikelola dan disebarluaskan. Untuk memahami konsep ini dengan lebih mudah, kita bisa menggunakan sebuah analogi yang sangat dekat dengen keseharian kita.
