@@ -40,3 +40,37 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 </p>
 
 ---
+<br> 
+
+### **<p align="center">BAB I</p>**
+### **<p align="center">PENDAHULUAN</p>**
+<br>
+
+#### **1.1. Latar Belakang**
+<p align="justify">
+&nbsp;&nbsp;&nbsp; Selama beberapa dekade terakhir ini, perkembanganteknologi informasi dan komunikasi telah mepengaruhi sistem layanan perpustakaan. Pada awalnya, layanan perpustakaan dilakukan secara konvensional dengan cara mengunjungi perpustakaan secara langsung ke tempat perpustakaan itu berada. Namun kini, terjadi pergeseran layanan perpustakaan ke arah modern yang menyediakan perpustakaan berbasis digital. Perpustakaan berbasis digital ini memanfaatkan teknologi informasi untuk menyimpan koleksi-koleksi dalam format digital yang dapat diakses secara fleksibel dan praktis, tidak terbatas waktu dan lokasi, serta distribusi informasi terjadi dengan cepat, tepat, dan akurat. Informasi telah menjadi aset paling berharga bagi individu, organisasi, hingga negara. Data pribadi seperti identitas, riwayat kesehatan, hingga informasi keuangan kini tersimpan dalam bentuk digital dan dipertukarkan melalui jaringan internet setiap detik. 
+<p align="justify">
+&nbsp;&nbsp;&nbsp; Pergeseran ini menuntut pemaknaan ulang terhadap prinsip-prinsip dasar pengelolaan perpustakaan dan arsip. Lima hukum perpustakaan yang dikemukakan S. R Ranganathan perlu diadaptasikan ke konteks digital melalui prinsip-prinsip dasar cyber yaang mencakup kerahasiaan, integritas dan ketersediaan. 
+<p align="justify">
+&nbsp;&nbsp;&nbsp; Seiring meningkatnya nilai strategis dari informasi, ancaman terhadap keamanan data juga semakin beragam dan kompleks. Kita sering mendengar kasus kebocoran data jutaan pengguna yang diperjualbelikan di forum gelap (dark web), serangan ransomware yang melumpuhkan layanan kesehatan, sehingga sabotase sistem informasi pemerintah oleh pihak asing. Semua itu menunjukkan bahwa ancaman tidak hanya datang dari pelaku kriminal individu, tetapi juga kelompok terorganisir, bahkan negara lain yang memilihi kepentingan politik atau ekonomi. Kondisi tersebut memposisikan perpustakaan dan arsip digital untuk meningkatan kualitas layanan sesuai prinsip cyber, sekaligus membangun keamanan data yang andal.
+</p> 
+
+#### **1.2. Rumusan Masalah**
+<p align="justify">
+&nbsp;1. Bagaimana evolusi 5 hukum perpustakaan?
+<br>
+&nbsp;2. Jelaskan konsep cyberethic dan hubungannya dengan perpustakaan digital!
+<br> 
+&nbsp;3. Jelaskan prinsip dasar keamanan cyber bagi perpustakaan digital dan lembaga arsip digital!
+<br>
+&nbsp;4. Analisa resiko keamanan perpustakaan dan arsip digital berdasarkan data historis
+<br>
+&nbsp;5. Jelaskan vektor dasar keamanan siber bagi perpustakaan atau arip digital
+<br> 
+&nbsp;6. Jelaskan faktor yang harus dikembangkan dan ditingkatkan dalam bagi perpustakaan dan arsip digital.
+</p>
+
+
+
+
+
