@@ -10,7 +10,7 @@ Di era sekarang ini, perkembangan teknologi informasi dan komunikasi makin berke
 
 **Metode**
 
- Metode yang digunakan adalah analisis dokumen dan literatur. Pendekatan ini dilakukan dengan mengumpulkan, menelaah, dan mensintesis gagasan dari buku The Five Rules of Library Science oleh S. R. Ranganathan. Seluruh informasi dari literatur tersebut kemudian diidentifikasi konsep dan keterkaitannya mengenai urgensi adaptasi perpustakaan di lingkungan digital.
+ Metode yang digunakan adalah analisis dokumen dan literatur. Metode ini dilakukan dengan menelaah, dan mensintesis gagasan dari buku The Five Rules of Library Science oleh S. R. Ranganathan. Seluruh informasi dari literatur tersebut kemudian diidentifikasi konsep dan keterkaitannya mengenai urgensi adaptasi perpustakaan di lingkungan digital.
 
 **Pembahasan**
 
