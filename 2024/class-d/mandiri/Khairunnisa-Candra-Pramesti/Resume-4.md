@@ -16,7 +16,7 @@ Triad CIA merupakann model umum yang menjadi dasar pengembangan sistem keamanan.
 
 **Apakah Tria CIA penting?**
 
-Menurut keyakinan saya, Tria CIA sangat pentign digunakan dalam kemanan cyber. Informasi dan adata adalah aset yang penting dan berharga bagi perusahaan, organisasi, perpustakaan dan individu. 
+Menurut keyakinan saya, Triad CIA sangat penting digunakan dalam kemanan cyber. Informasi dan data adalah aset yang penting dan berharga bagi perusahaan, organisasi, perpustakaan dan individu. 
 Pemahan dasar kemanan sistem dari 3 prinsip/ konsep CIA, bisa menghasilkan sistem keamanan yang efisien dan strategis untuk menghadapai berbagai ancaman cyber yang selalu ada. Penggunaaan prinsip triad CIA saat ini mengembagkan perpustakaan akan menjamin kalau data yang disimpan dan diakses oleh pengguna atau pemustaka tetap terjaga, aman dan selalu tersedia. Prinsip tersebut membuat masyarakat atau pemustaka mempercayai sistem yang dimiliki perpustataan seperti, OPAC dan website resmi.
 
 ## Kesimpulan
